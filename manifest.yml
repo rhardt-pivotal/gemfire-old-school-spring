@@ -8,5 +8,5 @@ applications:
   #- rob-session-replication
   env:
     GEMFIRE_USERNAME: developer
-    GEMFIRE_PASSWORD: cIlGduA9eVAS0MQUXdTJg
+    GEMFIRE_PASSWORD: 8675309JENNY
     GEMFIRE_LOCATORS: 10.0.8.7[55221],10.0.8.6[55221],10.0.8.5[55221]
